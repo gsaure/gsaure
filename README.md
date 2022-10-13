@@ -6,5 +6,5 @@
 
 📝 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/godwin-saure/)!
 
-🚀 Use [THIS LINK](https://github.com/StudentOrganisationForAerospaceResearch) to get to the Avionics Software GitHub!
+🚀 Use [THIS LINK](https://github.com/StudentOrganisationForAerospaceResearch) to get to the SOAR - Avionics Software GitHub!
 
