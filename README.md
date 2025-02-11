@@ -1,6 +1,6 @@
 <h2> Hey, I'm Godwin! 🙋‍♂️ </h2>
 
-⌨ I'm a 5th year student majoring in both software engineering and finance 💹 @[UofC](https://www.ucalgary.ca/). On my SWE side I'm really into OOP and app development, while on the business side I've been really interested data analytics, data science, and everything in between!
+⌨ I'm a 6th year student majoring in both software engineering and finance 💹 @[UofC](https://www.ucalgary.ca/). On my SWE side I'm really into OOP and app development, while on the business side I've been really interested data analytics, data science, and everything in between!
 
 💼 I was a Software Engineering Intern @[TELUS](https://www.telus.com/en)!
 
